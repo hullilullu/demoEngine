@@ -1,0 +1,1 @@
+Thank you for using demo engine, a small pygame engine intended for rapid game development for demos and trying out concepts.

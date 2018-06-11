@@ -1,0 +1,5 @@
+GO_TEST,test_graphics.jpg;0,0,70,85,0;70,0,70,85,0
+IDLE_TEST,test_graphics.jpg;0,0,70,85, 0;10,0,70,85,0
+IDLE_MAIN,generalMainSmall.jpg;42,42,99,126,0
+JUMP_MAIN,generalMainSmall.jpg;57,423,67,134,0
+WALK_MAIN,generalMainSmall.jpg;45,226,114,109,0;262,230,42,120,35;460,230,64,123,13
